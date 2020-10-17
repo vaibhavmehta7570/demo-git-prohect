@@ -1,3 +1,3 @@
 hii everyone.
-i am learning git.
+i am in sidebar branch.
 things are going pretty good.
